@@ -11,7 +11,10 @@ I am a seasoned Android Developer with a strong command of modern tools and tech
 **Contact Information:**
 - **Email:** [udasibharat1@gmail.com](mailto:udasibharat1@gmail.com)
 - **Phone:** +91-7020514384
-- **Location:** Nagpur, India
+- **Location:** Nagpur, India,
+
+**Links:**
+- **LintCode:** https://leetcode.com/u/udasibharat1/
 
 [Download Resume](./docs/resume.pdf)
 
