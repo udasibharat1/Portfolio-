@@ -78,14 +78,6 @@ Check out the demo video of the app [here]([./flutter_quiz_video.mp4](https://gi
    <img src="https://github.com/udasibharat1/Portfolio-/blob/main/result_screen.png" alt="Quiz App Screenshot 2" width="200" />
 </p>
 
-## Getting Started
-To run this app on your local machine:
-
-1. Clone the repository.
-2. Open the project in your preferred IDE (such as Android Studio or VS Code).
-3. Run `flutter pub get` to install the dependencies.
-4. Use `flutter run` to build and run the app on an emulator or physical device.
-
 ## Technologies Used
 - **Flutter**: The framework used for building the app.
 - **Dart**: The programming language used in Flutter.
