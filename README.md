@@ -101,18 +101,22 @@ The SYPI plugin SDK facilitates the application process for new credit cards, of
 
 ---
 ***Key Features***
-**Multi-Platform Support:** Designed to work with multiple e-commerce platforms across the US.
-**Credit Card Applications:** Simplifies the process of applying for new credit cards directly through the platform.
-**Custom Offers:** Provides personalized offers and promotions based on user data.
-**Secure Transactions:** Ensures safe and reliable credit card transactions during the purchase process.
+**Multi-Platform Support:** 
+--Designed to work with multiple e-commerce platforms across the US.
+**Credit Card Applications:** 
+--Simplifies the process of applying for new credit cards directly through the platform.
+**Custom Offers:**
+--Provides personalized offers and promotions based on user data.
+**Secure Transactions:**
+--Ensures safe and reliable credit card transactions during the purchase process.
 
 ---
 **Technologies Used**
-**Programming Languages:** Java, Kotlin
-**Frameworks:** Android SDK, Retrofit
-**Tools:** Android Studio, Git, JIRA
+**Programming Languages:**-- Java, Kotlin
+**Frameworks:** --Android SDK, Retrofit
+**Tools:** --Android Studio, Git, JIRA
 **Impact**
-The SYPI plugin SDK plays a crucial role in enhancing the shopping experience for millions of customers, enabling them to access credit easily and securely while taking advantage of tailored offers. By supporting several high-profile retail clients, the SDK contributes to substantial business growth in the competitive US e-commerce market.
+--The SYPI plugin SDK plays a crucial role in enhancing the shopping experience for millions of customers, enabling them to access credit easily and securely while taking advantage of tailored offers. By supporting several high-profile retail clients, the SDK contributes to substantial business growth in the competitive US e-commerce market.
 
 ---
 
