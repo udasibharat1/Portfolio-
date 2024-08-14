@@ -33,7 +33,7 @@ This app is built for learning purposes to get hands-on experience with Flutter.
 - Interactive button to trigger dice roll
 
 ## Demo Video
-Check out the demo video of the app [here](./roll_a_dice_video.mp4).
+Check out the demo video of the app [here]([./roll_a_dice_video.mp4](https://github.com/udasibharat1/Portfolio-/blob/main/roll_a_dice_vedio.mp4)).
 
 ## Screenshots
 <p align="center">
