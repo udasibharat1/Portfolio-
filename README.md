@@ -17,7 +17,7 @@ I am a seasoned Android Developer with a strong command of modern tools and tech
 
 -**This is my project description.**
 
-<img src="https://github.com/udasibharat1/Portfolio-/blob/main/Roll_a_dice_2.png" alt="Large Image" width="200" height="300">
+<img src="https://github.com/udasibharat1/Portfolio-/blob/main/Roll_a_dice_2.png" alt="Large Image" width="150" height="300">
 
 **Links:**
 - **LintCode:** https://leetcode.com/u/udasibharat1/
