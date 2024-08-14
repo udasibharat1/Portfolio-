@@ -26,10 +26,10 @@ I am a seasoned Android Developer with a strong command of modern tools and tech
 -**Roll a dice in flutter.**
 - **Project Description:** This is made for learning purpose to get hands on in flutter. This is my first app in flutter.This is a very basic app which contains the login to roll a dice when user clicks on the roll a dice button. I have also added vedio of the app in the named roll a dice vedio
 <p align="center">
-  <img src="https://github.com/udasibharat1/Portfolio-/blob/main/Roll_a_dice_2.png" alt="Large Image" width="150" height="300">
- <img src="https://github.com/udasibharat1/Portfolio-/blob/main/roll_four_number.png" alt="Large Image" width="150" height="300">
-  <img src="https://github.com/udasibharat1/Portfolio-/blob/main/roll_three_number.png" alt="Large Image" width="150" height="300">
-  <img src="https://github.com/udasibharat1/Portfolio-/blob/main/roll_two_number.png" alt="Large Image" width="150" height="300">
+  <img src="https://github.com/udasibharat1/Portfolio-/blob/main/Roll_a_dice_2.png" alt="Large Image" width="150" height="300" hspace="20">
+ <img src="https://github.com/udasibharat1/Portfolio-/blob/main/roll_four_number.png" alt="Large Image" width="150" height="300" hspace="20">
+  <img src="https://github.com/udasibharat1/Portfolio-/blob/main/roll_three_number.png" alt="Large Image" width="150" height="300" hspace="20">
+  <img src="https://github.com/udasibharat1/Portfolio-/blob/main/roll_two_number.png" alt="Large Image" width="150" height="300" hspace="20">
 
 </p>
 
