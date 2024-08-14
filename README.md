@@ -70,11 +70,11 @@ Check out the demo video of the app [here]([./flutter_quiz_video.mp4](https://gi
 <p align="center">
   <img src="https://github.com/udasibharat1/Portfolio-/blob/main/splash_screen.png" alt="Quiz App Screenshot 1" width="200" style="margin-right: 20px;" />
 
-   <img src="https://github.com/udasibharat1/Portfolio-/blob/main/quize_screen1.png" alt="Quiz App Screenshot 2" width="200" />
+   <img src="https://github.com/udasibharat1/Portfolio-/blob/main/quize_screen_1.png" alt="Quiz App Screenshot 2" width="200" />
    <img src="https://github.com/udasibharat1/Portfolio-/blob/main/quize_screen2.png" alt="Quiz App Screenshot 2" width="200" />
    <img src="https://github.com/udasibharat1/Portfolio-/blob/main/quize_screen3.png" alt="Quiz App Screenshot 2" width="200" />
-   <img src="https://github.com/udasibharat1/Portfolio-/blob/main/quize_screen4.png" alt="Quiz App Screenshot 2" width="200" />
-   <img src="https://github.com/udasibharat1/Portfolio-/blob/main/quize_screen5.png" alt="Quiz App Screenshot 2" width="200" />
+   <img src="https://github.com/udasibharat1/Portfolio-/blob/main/quize_screen_4.png" alt="Quiz App Screenshot 2" width="200" />
+   <img src="https://github.com/udasibharat1/Portfolio-/blob/main/quize_screen_5.png" alt="Quiz App Screenshot 2" width="200" />
    <img src="https://github.com/udasibharat1/Portfolio-/blob/main/result_screen.png" alt="Quiz App Screenshot 2" width="200" />
 </p>
 
