@@ -24,7 +24,7 @@ I am a seasoned Android Developer with a strong command of modern tools and tech
 # Personal Projects
 
 -**Roll a dice in flutter.**
-- **Project Description:** [This is made for learning purpose to get hands on in flutter. This is my first app in flutter.This is a very basic app which contains the login to roll a dice when user clicks on the roll a dice button. I have also added vedio of the app in the named roll a dice vedio]
+- **Project Description:** This is made for learning purpose to get hands on in flutter. This is my first app in flutter.This is a very basic app which contains the login to roll a dice when user clicks on the roll a dice button. I have also added vedio of the app in the named roll a dice vedio
 - **Phone:** +91-7020514384
 - **Location:** Nagpur, India,
 
