@@ -23,15 +23,35 @@ I am a seasoned Android Developer with a strong command of modern tools and tech
 
 # Personal Projects
 
--**Roll a dice in flutter.**
-- **Project Description:** This is made for learning purpose to get hands on in flutter. This is my first app in flutter.This is a very basic app which contains the login to roll a dice when user clicks on the roll a dice button. I have also added vedio of the app in the named roll a dice vedio
+# Roll a Dice App
+
+This app is built for learning purposes to get hands-on experience with Flutter. It's my first app in Flutter, and it demonstrates the basic functionality of rolling a dice when the user clicks on the "Roll a Dice" button.
+
+## Features
+- Simple and clean UI
+- Random dice roll functionality
+- Interactive button to trigger dice roll
+
+## Demo Video
+Check out the demo video of the app [here](./roll_a_dice_video.mp4).
+
+## Screenshots
 <p align="center">
   <img src="https://github.com/udasibharat1/Portfolio-/blob/main/Roll_a_dice_2.png" alt="Large Image" width="150" height="300" hspace="20">
  <img src="https://github.com/udasibharat1/Portfolio-/blob/main/roll_four_number.png" alt="Large Image" width="150" height="300" hspace="20">
   <img src="https://github.com/udasibharat1/Portfolio-/blob/main/roll_three_number.png" alt="Large Image" width="150" height="300" hspace="20">
   <img src="https://github.com/udasibharat1/Portfolio-/blob/main/roll_two_number.png" alt="Large Image" width="150" height="300" hspace="20">
-
 </p>
+
+## Technologies Used
+- **Flutter**: The framework used for building the app.
+- **Dart**: The programming language used in Flutter.
+
+## Purpose
+This app was developed to help me understand the basics of Flutter and its components, such as widgets, state management, and event handling. It's a foundational project that sets the stage for more complex applications in the future.
+
+## Conclusion
+This simple app is just the beginning of my Flutter journey. I look forward to building more sophisticated and feature-rich applications as I continue to learn and grow as a developer.
 
 ---
 
