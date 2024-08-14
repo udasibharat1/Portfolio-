@@ -92,22 +92,21 @@ This quiz app is a great way to reinforce learning and ensure that users have a 
 
 ### SYPI Plugin SDK
 
-***Overview***
+## Overview
 I am currently working on the SYPI plugin SDK, a comprehensive solution designed for retail customers. This SDK is engineered to support multiple e-commerce giants in the US, including renowned brands like Sam's Club, Verizon, Crate and Barrel, American Eagle, and Lowe's.
 
----
-***Purpose***
+## Purpose
 The SYPI plugin SDK facilitates the application process for new credit cards, offers tailored promotions, and enables seamless credit card transactions during product purchases. It’s a versatile tool that integrates with various retail platforms to streamline financial transactions and enhance customer engagement.
 
 ---
-***Key Features***
-**Multi-Platform Support:** 
---Designed to work with multiple e-commerce platforms across the US.
-**Credit Card Applications:** 
---Simplifies the process of applying for new credit cards directly through the platform.
-**Custom Offers:**
+## Key Features
+- **Multi-Platform Support:**
+ Designed to work with multiple e-commerce platforms across the US.
+- **Credit Card Applications:** 
+  Simplifies the process of applying for new credit cards directly through the platform.
+- **Custom Offers:**
 --Provides personalized offers and promotions based on user data.
-**Secure Transactions:**
+-**Secure Transactions:**
 --Ensures safe and reliable credit card transactions during the purchase process.
 
 ---
