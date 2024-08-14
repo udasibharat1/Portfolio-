@@ -96,7 +96,10 @@ The Flutter Quiz App is intended to help developers and learners gauge their kno
 ## Conclusion
 This quiz app is a great way to reinforce learning and ensure that users have a strong grasp of Flutter. It's an interactive and engaging way to study and review important concepts.
 
-## Projects
+## Profesional Projects
+
+### SYPI Plugin SDK
+### BRC (Busines Revolving Credit)
 
 ### [Bigzpoon](./Bigzpoon)
 *November 2017 - December 2018 | Calvid Innovations*
