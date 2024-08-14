@@ -13,7 +13,7 @@ I am a seasoned Android Developer with a strong command of modern tools and tech
 - **Phone:** +91-7020514384
 - **Location:** Nagpur, India,
 
-- ![Alt text]( https://github.com/udasibharat1/Portfolio-/edit/main/Roll%20a%20dice%202.png)
+- ![Alt text](https://github.com/udasibharat1/Portfolio-/blob/main/Roll_a_dice_2.png)
 
 **Links:**
 - **LintCode:** https://leetcode.com/u/udasibharat1/
