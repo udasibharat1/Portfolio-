@@ -31,7 +31,7 @@ This app is built for learning purposes to get hands-on experience with Flutter.
 - Interactive button to trigger dice roll
 
 ## Demo Video
-Check out the demo video of the app [here]([./roll_a_dice_video.mp4](https://github.com/udasibharat1/Portfolio-/blob/main/roll_a_dice_vedio.mp4)).
+Check out the demo video of the app [here]([[./roll_a_dice_video.mp4](https://github.com/udasibharat1/Portfolio-/blob/main/roll_a_dice_vedio.mp4)]).
 
 ## Screenshots
 <p align="center">
@@ -52,6 +52,43 @@ This app was developed to help me understand the basics of Flutter and its compo
 This simple app is just the beginning of my Flutter journey. I look forward to building more sophisticated and feature-rich applications as I continue to learn and grow as a developer.
 
 ---
+
+# Flutter Quiz App
+
+This app is designed to help users test their knowledge of Flutter technology. The quiz consists of questions related to various aspects of Flutter, allowing users to assess their understanding of the framework.
+
+## Features
+- Multiple-choice questions covering different topics in Flutter
+- User-friendly interface with clear navigation
+- Instant feedback on answers to help users learn as they go
+- Score tracking to monitor progress
+
+## Demo Video
+Check out the demo video of the app [here]([./flutter_quiz_video.mp4](https://github.com/udasibharat1/Portfolio-/blob/main/quize_app.mp4)).
+
+## Screenshots
+<p align="center">
+  <img src="./screenshots/quiz_screenshot1.png" alt="Quiz App Screenshot 1" width="200" style="margin-right: 20px;" />
+  <img src="./screenshots/quiz_screenshot2.png" alt="Quiz App Screenshot 2" width="200" />
+</p>
+
+## Getting Started
+To run this app on your local machine:
+
+1. Clone the repository.
+2. Open the project in your preferred IDE (such as Android Studio or VS Code).
+3. Run `flutter pub get` to install the dependencies.
+4. Use `flutter run` to build and run the app on an emulator or physical device.
+
+## Technologies Used
+- **Flutter**: The framework used for building the app.
+- **Dart**: The programming language used in Flutter.
+
+## Purpose
+The Flutter Quiz App is intended to help developers and learners gauge their knowledge of Flutter. It's a tool to assess understanding, identify areas for improvement, and solidify concepts related to Flutter development.
+
+## Conclusion
+This quiz app is a great way to reinforce learning and ensure that users have a strong grasp of Flutter. It's an interactive and engaging way to study and review important concepts.
 
 ## Projects
 
