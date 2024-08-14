@@ -18,7 +18,7 @@ I am a seasoned Android Developer with a strong command of modern tools and tech
 **Links:**
 - **LintCode:** https://leetcode.com/u/udasibharat1/
 
-[Download Resume](./docs/resume.pdf)
+[Download Resume](https://github.com/udasibharat1/Portfolio-/blob/main/my_resume.pdf)
 
 
 # Personal Projects
