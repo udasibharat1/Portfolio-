@@ -5,7 +5,7 @@ Welcome to my portfolio! I am Bharat Udasi, an experienced Mobile Developer with
 
 ## About Me
 
-I am a seasoned Flutter Developer with a strong command of modern tools and technologies. My experience spans across various domains, and I have successfully led and contributed to multiple high-impact projects. I excel in both individual and team settings, always striving to innovate and advance the projects I work on.
+I am a seasoned Mobile Developer with a strong command of modern tools and technologies. My experience spans across various domains, and I have successfully led and contributed to multiple high-impact projects. I excel in both individual and team settings, always striving to innovate and advance the projects I work on.
 
 **Contact Information:**
 - **Email:** [udasibharat1@gmail.com](mailto:udasibharat1@gmail.com)
