@@ -171,7 +171,7 @@ A platform for processing credit card transactions, integrated with several E-co
 - Led a team to deliver a robust and scalable SDK.
 - Handled approximately $2 billion in transactions annually.
 
-[View Project Details](./CommonSDKPlatform)
+[View Project Details][here]([https://github.com/udasibharat1/Portfolio-/blob/main/quize_app.mp4](https://www.amazon.com/Glitter-Technology-Ventures-LLC-TownBlast/dp/B0752HR35K#:~:text=TownBlast%20is%20a%20local%20business%20network%20that,shopping%20for%20products%20from%20around%20any%20location.).
 
 ---
 
