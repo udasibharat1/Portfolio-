@@ -155,10 +155,10 @@ An e-commerce platform that allows users to order items posted by business retai
 
   ## Screenshots
 <p align="center">
-  <img src="https://github.com/udasibharat1/Portfolio-/blob/main/Townblastimage1.png" alt="Large Image" width="600" height="600" hspace="20">
- <img src="https://github.com/udasibharat1/Portfolio-/blob/main/Townblastimage2.png" alt="Large Image" width="500" height="600" hspace="20">
-  <img src="https://github.com/udasibharat1/Portfolio-/blob/main/Townblastimage3.png" alt="Large Image" width="400" height="600" hspace="20">
-  <img src="https://github.com/udasibharat1/Portfolio-/blob/main/Townblastimage4.png" alt="Large Image" width="700" height="600" hspace="20">
+  <img src="https://github.com/udasibharat1/Portfolio-/blob/main/Townblastimage1.png" alt="Large Image" width="150" height="600" hspace="20">
+ <img src="https://github.com/udasibharat1/Portfolio-/blob/main/Townblastimage2.png" alt="Large Image" width="200" height="600" hspace="20">
+  <img src="https://github.com/udasibharat1/Portfolio-/blob/main/Townblastimage3.png" alt="Large Image" width="100" height="600" hspace="20">
+  <img src="https://github.com/udasibharat1/Portfolio-/blob/main/Townblastimage4.png" alt="Large Image" width="160" height="600" hspace="20">
 </p>
 
 [View Project Details](./Townblast)
