@@ -17,76 +17,6 @@ I am a seasoned Mobile Developer with a strong command of modern tools and techn
 
 [Download Resume](https://github.com/udasibharat1/Portfolio-/blob/main/my_resume.pdf)
 
-
-# Personal Projects
-
-# Roll a Dice App
-
-This app is built for learning purposes to get hands-on experience with Flutter. It's my first app in Flutter, and it demonstrates the basic functionality of rolling a dice when the user clicks on the "Roll a Dice" button.
-
-## Features
-- Simple and clean UI
-- Random dice roll functionality
-- Interactive button to trigger dice roll
-
-## Demo Video
-Check out the demo video of the app [here]([[./roll_a_dice_video.mp4](https://github.com/udasibharat1/Portfolio-/blob/main/roll_a_dice_vedio.mp4)]).
-
-## Screenshots
-<p align="center">
-  <img src="https://github.com/udasibharat1/Portfolio-/blob/main/Roll_a_dice_2.png" alt="Large Image" width="150" height="300" hspace="20">
- <img src="https://github.com/udasibharat1/Portfolio-/blob/main/roll_four_number.png" alt="Large Image" width="150" height="300" hspace="20">
-  <img src="https://github.com/udasibharat1/Portfolio-/blob/main/roll_three_number.png" alt="Large Image" width="150" height="300" hspace="20">
-  <img src="https://github.com/udasibharat1/Portfolio-/blob/main/roll_two_number.png" alt="Large Image" width="150" height="300" hspace="20">
-</p>
-
-## Technologies Used
-- **Flutter**: The framework used for building the app.
-- **Dart**: The programming language used in Flutter.
-
-## Purpose
-This app was developed to help me understand the basics of Flutter and its components, such as widgets, state management, and event handling. It's a foundational project that sets the stage for more complex applications in the future.
-
-## Conclusion
-This simple app is just the beginning of my Flutter journey. I look forward to building more sophisticated and feature-rich applications as I continue to learn and grow as a developer.
-
----
-
-# Flutter Quiz App
-
-This app is designed to help users test their knowledge of Flutter technology. The quiz consists of questions related to various aspects of Flutter, allowing users to assess their understanding of the framework.
-
-## Features
-- Multiple-choice questions covering different topics in Flutter
-- User-friendly interface with clear navigation
-- Instant feedback on answers to help users learn as they go
-- Score tracking to monitor progress
-
-## Demo Video
-Check out the demo video of the app [here]([./flutter_quiz_video.mp4](https://github.com/udasibharat1/Portfolio-/blob/main/quize_app.mp4)).
-
-## Screenshots
-<p align="center">
-  <img src="https://github.com/udasibharat1/Portfolio-/blob/main/splash_screen.png" alt="Quiz App Screenshot 1" width="200" style="margin-right: 20px;" />
-
-   <img src="https://github.com/udasibharat1/Portfolio-/blob/main/quize_screen_1.png" alt="Quiz App Screenshot 2" width="200" />
-   <img src="https://github.com/udasibharat1/Portfolio-/blob/main/quize_screen2.png" alt="Quiz App Screenshot 2" width="200" />
-   <img src="https://github.com/udasibharat1/Portfolio-/blob/main/quize_screen3.png" alt="Quiz App Screenshot 2" width="200" />
-   <img src="https://github.com/udasibharat1/Portfolio-/blob/main/quize_screen_4.png" alt="Quiz App Screenshot 2" width="200" />
-   <img src="https://github.com/udasibharat1/Portfolio-/blob/main/quize_screen_5.png" alt="Quiz App Screenshot 2" width="200" />
-   <img src="https://github.com/udasibharat1/Portfolio-/blob/main/result_screen.png" alt="Quiz App Screenshot 2" width="200" />
-</p>
-
-## Technologies Used
-- **Flutter**: The framework used for building the app.
-- **Dart**: The programming language used in Flutter.
-
-## Purpose
-The Flutter Quiz App is intended to help developers and learners gauge their knowledge of Flutter. It's a tool to assess understanding, identify areas for improvement, and solidify concepts related to Flutter development.
-
-## Conclusion
-This quiz app is a great way to reinforce learning and ensure that users have a strong grasp of Flutter. It's an interactive and engaging way to study and review important concepts.
-
 ## Profesional Projects
 
 ### SYPI Plugin SDK
@@ -190,6 +120,76 @@ A platform for processing credit card transactions, integrated with several E-co
 - Handled approximately $2 billion in transactions annually.
 
 [View Project Details][here]([https://github.com/udasibharat1/Portfolio-/blob/main/quize_app.mp4](https://www.amazon.com/Glitter-Technology-Ventures-LLC-TownBlast/dp/B0752HR35K#:~:text=TownBlast%20is%20a%20local%20business%20network%20that,shopping%20for%20products%20from%20around%20any%20location.).
+
+---
+# Personal Projects
+
+# Roll a Dice App
+
+This app is built for learning purposes to get hands-on experience with Flutter. It's my first app in Flutter, and it demonstrates the basic functionality of rolling a dice when the user clicks on the "Roll a Dice" button.
+
+## Features
+- Simple and clean UI
+- Random dice roll functionality
+- Interactive button to trigger dice roll
+
+## Demo Video
+Check out the demo video of the app [here]([[./roll_a_dice_video.mp4](https://github.com/udasibharat1/Portfolio-/blob/main/roll_a_dice_vedio.mp4)]).
+
+## Screenshots
+<p align="center">
+  <img src="https://github.com/udasibharat1/Portfolio-/blob/main/Roll_a_dice_2.png" alt="Large Image" width="150" height="300" hspace="20">
+ <img src="https://github.com/udasibharat1/Portfolio-/blob/main/roll_four_number.png" alt="Large Image" width="150" height="300" hspace="20">
+  <img src="https://github.com/udasibharat1/Portfolio-/blob/main/roll_three_number.png" alt="Large Image" width="150" height="300" hspace="20">
+  <img src="https://github.com/udasibharat1/Portfolio-/blob/main/roll_two_number.png" alt="Large Image" width="150" height="300" hspace="20">
+</p>
+
+## Technologies Used
+- **Flutter**: The framework used for building the app.
+- **Dart**: The programming language used in Flutter.
+
+## Purpose
+This app was developed to help me understand the basics of Flutter and its components, such as widgets, state management, and event handling. It's a foundational project that sets the stage for more complex applications in the future.
+
+## Conclusion
+This simple app is just the beginning of my Flutter journey. I look forward to building more sophisticated and feature-rich applications as I continue to learn and grow as a developer.
+
+---
+
+# Flutter Quiz App
+
+This app is designed to help users test their knowledge of Flutter technology. The quiz consists of questions related to various aspects of Flutter, allowing users to assess their understanding of the framework.
+
+## Features
+- Multiple-choice questions covering different topics in Flutter
+- User-friendly interface with clear navigation
+- Instant feedback on answers to help users learn as they go
+- Score tracking to monitor progress
+
+## Demo Video
+Check out the demo video of the app [here]([./flutter_quiz_video.mp4](https://github.com/udasibharat1/Portfolio-/blob/main/quize_app.mp4)).
+
+## Screenshots
+<p align="center">
+  <img src="https://github.com/udasibharat1/Portfolio-/blob/main/splash_screen.png" alt="Quiz App Screenshot 1" width="200" style="margin-right: 20px;" />
+
+   <img src="https://github.com/udasibharat1/Portfolio-/blob/main/quize_screen_1.png" alt="Quiz App Screenshot 2" width="200" />
+   <img src="https://github.com/udasibharat1/Portfolio-/blob/main/quize_screen2.png" alt="Quiz App Screenshot 2" width="200" />
+   <img src="https://github.com/udasibharat1/Portfolio-/blob/main/quize_screen3.png" alt="Quiz App Screenshot 2" width="200" />
+   <img src="https://github.com/udasibharat1/Portfolio-/blob/main/quize_screen_4.png" alt="Quiz App Screenshot 2" width="200" />
+   <img src="https://github.com/udasibharat1/Portfolio-/blob/main/quize_screen_5.png" alt="Quiz App Screenshot 2" width="200" />
+   <img src="https://github.com/udasibharat1/Portfolio-/blob/main/result_screen.png" alt="Quiz App Screenshot 2" width="200" />
+</p>
+
+## Technologies Used
+- **Flutter**: The framework used for building the app.
+- **Dart**: The programming language used in Flutter.
+
+## Purpose
+The Flutter Quiz App is intended to help developers and learners gauge their knowledge of Flutter. It's a tool to assess understanding, identify areas for improvement, and solidify concepts related to Flutter development.
+
+## Conclusion
+This quiz app is a great way to reinforce learning and ensure that users have a strong grasp of Flutter. It's an interactive and engaging way to study and review important concepts.
 
 ---
 
