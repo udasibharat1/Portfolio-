@@ -138,12 +138,11 @@ An e-commerce platform enabling users to order food within a 20-mile radius. Thi
 
   ## Screenshots
   <p align="center">
-  <img src="https://github.com/udasibharat1/Portfolio-/blob/main/bigzpoon1.png" alt="Large Image" width="1000" height="600" hspace="20">
- <img src="https://github.com/udasibharat1/Portfolio-/blob/main/bigzpoon2.png" alt="Large Image" width="1000" height="600" hspace="20">
-  <img src="https://github.com/udasibharat1/Portfolio-/blob/main/bigpoon3.png" alt="Large Image" width="1000" height="600" hspace="20">
-  <img src="https://github.com/udasibharat1/Portfolio-/blob/main/bigzpoon4.png" alt="Large Image" width="1000" height="600" hspace="20">
-    <img src="https://github.com/udasibharat1/Portfolio-/blob/main/bigzpoon5.png" alt="Large Image" width="1000" height="600" hspace="20">
-      <img src="https://github.com/udasibharat1/Portfolio-/blob/main/bigzpoon6.png" alt="Large Image" width="1000" height="600" hspace="20">
+  <img src="https://github.com/udasibharat1/Portfolio-/blob/main/bigzpoon1.png" alt="Large Image" width="1000" height="800" hspace="20">
+  <img src="https://github.com/udasibharat1/Portfolio-/blob/main/bigpoon3.png" alt="Large Image" width="300" height="600" hspace="20">
+  <img src="https://github.com/udasibharat1/Portfolio-/blob/main/bigzpoon4.png" alt="Large Image" width="1000" height="800" hspace="20">
+    <img src="https://github.com/udasibharat1/Portfolio-/blob/main/bigzpoon5.png" alt="Large Image" width="300" height="600" hspace="20">
+      <img src="https://github.com/udasibharat1/Portfolio-/blob/main/bigzpoon6.png" alt="Large Image" width="300" height="600" hspace="20">
 </p>
 
 [View Project Details](./Bigzpoon)
