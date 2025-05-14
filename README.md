@@ -135,6 +135,16 @@ An e-commerce platform enabling users to order food within a 20-mile radius. Thi
 - Led the development of key features, optimizing app performance.
 - Worked closely with the design team to implement a user-friendly interface.
 
+
+  ## Screenshots
+<p align="center">
+  <img src="https://github.com/udasibharat1/Portfolio-/blob/main/splash_screen.png" alt="Quiz App Screenshot 1" width="200" style="margin-right: 20px;" />
+   <img src="https://github.com/udasibharat1/Portfolio-/blob/main/quize_screen_1.png" alt="Quiz App Screenshot 2" width="200" />
+   <img src="https://github.com/udasibharat1/Portfolio-/blob/main/quize_screen2.png" alt="Quiz App Screenshot 2" width="200" />
+   <img src="https://github.com/udasibharat1/Portfolio-/blob/main/quize_screen3.png" alt="Quiz App Screenshot 2" width="200" />
+   <img src="https://github.com/udasibharat1/Portfolio-/blob/main/quize_screen_4.png" alt="Quiz App Screenshot 2" width="200" />
+</p>
+
 [View Project Details](./Bigzpoon)
 
 ---
