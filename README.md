@@ -138,11 +138,12 @@ An e-commerce platform enabling users to order food within a 20-mile radius. Thi
 
   ## Screenshots
 <p align="center">
-  <img src="https://github.com/udasibharat1/Portfolio-/blob/main/splash_screen.png" alt="Quiz App Screenshot 1" width="200" style="margin-right: 20px;" />
-   <img src="https://github.com/udasibharat1/Portfolio-/blob/main/quize_screen_1.png" alt="Quiz App Screenshot 2" width="200" />
-   <img src="https://github.com/udasibharat1/Portfolio-/blob/main/quize_screen2.png" alt="Quiz App Screenshot 2" width="200" />
-   <img src="https://github.com/udasibharat1/Portfolio-/blob/main/quize_screen3.png" alt="Quiz App Screenshot 2" width="200" />
-   <img src="https://github.com/udasibharat1/Portfolio-/blob/main/quize_screen_4.png" alt="Quiz App Screenshot 2" width="200" />
+  <img src="https://github.com/udasibharat1/Portfolio-/blob/main/bigzpoon1.png" alt="Quiz App Screenshot 1" width="200" style="margin-right: 20px;" />
+   <img src="https://github.com/udasibharat1/Portfolio-/blob/main/bigzpoon2.png" alt="Quiz App Screenshot 2" width="200" />
+   <img src="https://github.com/udasibharat1/Portfolio-/blob/main/bigzpoon3.png" alt="Quiz App Screenshot 2" width="200" />
+   <img src="https://github.com/udasibharat1/Portfolio-/blob/main/bigzpoon4.png" alt="Quiz App Screenshot 2" width="200" />
+  <img src="https://github.com/udasibharat1/Portfolio-/blob/main/bigzpoon5.png" alt="Quiz App Screenshot 2" width="200" />
+   <img src="https://github.com/udasibharat1/Portfolio-/blob/main/bigzpoon6.png" alt="Quiz App Screenshot 2" width="200" />
 </p>
 
 [View Project Details](./Bigzpoon)
